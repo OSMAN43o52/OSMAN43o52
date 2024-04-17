@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**OSMAN43o52/OSMAN43o52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, World! 🌍
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm   AKISSIBA OSMAN, a FRONT END DEVELOPER passionate about building cool stuff with code. Here's a little about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+- 
+- 🌱 I'm learning FRONT END DEVELOPMENT AND UI/UX DESIGN.
+- 💼 I'm open to new opportunities, so feel free to reach out!
+
+### Skills
+- Programming Languages: HTML,CSS AND JAVASCRIPT
+- Technologies & Tools: REACT,WORDPRESS,FIGMA,CANVA
+
+
+### Connect with Me
+- [LinkedIn](link-to-LinkedIn)
+  
+
+
+Feel free to explore my repositories and drop me a message if you'd like to collaborate or just say hi! 😊
